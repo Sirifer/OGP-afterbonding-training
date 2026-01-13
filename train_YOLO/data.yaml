@@ -1,0 +1,16 @@
+# train: /cms/user/huangsuyun/dataset/samples/afterbonding/afterbondingall/new_wire_105_1000/images/train
+# val: /cms/user/huangsuyun/dataset/samples/afterbonding/afterbondingall/new_wire_105_1000/images/val
+# test: /cms/user/huangsuyun/dataset/samples/afterbonding/afterbondingall/new_wire_105_1000/images/test
+train: /cms/user/huangsuyun/dataset/samples/afterbonding/For_anomalib/wire/images/train
+val: /cms/user/huangsuyun/dataset/samples/afterbonding/For_anomalib/wire/images/val
+test: /cms/user/huangsuyun/dataset/samples/afterbonding/For_anomalib/wire/images/test
+# train: /cms/user/huangsuyun/dataset/samples/bfbondingall/images/train
+# val: /cms/user/huangsuyun/dataset/samples/bfbondingall/images/val
+# test: /cms/user/huangsuyun/dataset/samples/bfbondingall/images/test
+# train: /cms/user/huangsuyun/dataset/samples/afterbonding/afterbondingall/new2/new1/images/train
+# val: /cms/user/huangsuyun/dataset/samples/afterbonding/afterbondingall/new2/new1/images/val
+# test: /cms/user/huangsuyun/dataset/samples/afterbonding/afterbondingall/new2/new1/images/test
+nc: 1
+names: ['wire']
+# names: ['pollutant', 'wire']
+# names: ['glue']
